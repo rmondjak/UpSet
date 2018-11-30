@@ -1,0 +1,14 @@
+{
+	"file": "https://raw.githubusercontent.com/rmondjak/UpSet/master/5FMCvssiTEX10_filtered_fdr005_down1.5FC.csv",
+	"name": "5FMC vs siTEX10 downregulated genes 1.5FC 2",
+	"header": 0,
+	"separator": ",",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "Name" },
+		{ "type": "integer", "index": 6, "name": "Type" },
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 5 }
+	]
+}
